@@ -9,10 +9,10 @@
 ## Instrucciones de uso
 
 1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/Demian-Sotomayor/fintech-landing.git
-   cd nipto
-   ```
+```bash
+git clone https://github.com/Demian-Sotomayor/fintech-landing.git
+cd nipto
+```
 
 2. Instala dependencias:
 ```

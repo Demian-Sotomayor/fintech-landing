@@ -1,0 +1,35 @@
+{
+  // Desactiva detección automática de indentación y fuerza tabSize 2
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+
+  // Usa Prettier como formatter por defecto
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // Formatea al guardar para estos lenguajes
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "[css]": {
+    "editor.formatOnSave": true
+  },
+  "[scss]": {
+    "editor.formatOnSave": true
+  },
+  "[json]": {
+    "editor.formatOnSave": true
+  },
+
+  // Mantén tus badges y contadores de TODO Tree
+  "todo-tree.tree.showBadges": true,
+  "todo-tree.tree.showCountsInTree": true
+}
